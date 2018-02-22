@@ -130,229 +130,229 @@ class ViewController: UIViewController {
         }
         switch randomNumber {
         case 1:
-            View_1.backgroundColor = UIColor.yellow
+            View_1.backgroundColor = UIColor.red
             displayLabel.text = "B1"
         case 2:
-            View_2.backgroundColor = UIColor.yellow
+            View_2.backgroundColor = UIColor.red
             displayLabel.text = "B2"
         case 3:
-            View_3.backgroundColor = UIColor.yellow
+            View_3.backgroundColor = UIColor.red
             displayLabel.text = "B3"
         case 4:
-            View_4.backgroundColor = UIColor.yellow
+            View_4.backgroundColor = UIColor.red
             displayLabel.text = "B4"
         case 5:
-            View_5.backgroundColor = UIColor.yellow
+            View_5.backgroundColor = UIColor.red
             displayLabel.text = "B5"
         case 6:
-            View_6.backgroundColor = UIColor.yellow
+            View_6.backgroundColor = UIColor.red
             displayLabel.text = "B6"
         case 7:
-            View_7.backgroundColor = UIColor.yellow
+            View_7.backgroundColor = UIColor.red
             displayLabel.text = "B7"
         case 8:
-            View_8.backgroundColor = UIColor.yellow
+            View_8.backgroundColor = UIColor.red
             displayLabel.text = "B8"
         case 9:
-            View_9.backgroundColor = UIColor.yellow
+            View_9.backgroundColor = UIColor.red
             displayLabel.text = "B9"
         case 10:
-            View_10.backgroundColor = UIColor.yellow
+            View_10.backgroundColor = UIColor.red
             displayLabel.text = "B10"
         case 11:
-            View_11.backgroundColor = UIColor.yellow
+            View_11.backgroundColor = UIColor.red
             displayLabel.text = "B11"
         case 12:
-            View_12.backgroundColor = UIColor.yellow
+            View_12.backgroundColor = UIColor.red
             displayLabel.text = "B12"
         case 13:
-            View_13.backgroundColor = UIColor.yellow
+            View_13.backgroundColor = UIColor.red
             displayLabel.text = "B13"
         case 14:
-            View_14.backgroundColor = UIColor.yellow
+            View_14.backgroundColor = UIColor.red
             displayLabel.text = "B14"
         case 15:
-            View_15.backgroundColor = UIColor.yellow
+            View_15.backgroundColor = UIColor.red
             displayLabel.text = "B15"
         case 16:
-            View_16.backgroundColor = UIColor.yellow
+            View_16.backgroundColor = UIColor.red
             displayLabel.text = "I16"
         case 17:
-            View_17.backgroundColor = UIColor.yellow
+            View_17.backgroundColor = UIColor.red
             displayLabel.text = "I17"
         case 18:
-            View_18.backgroundColor = UIColor.yellow
+            View_18.backgroundColor = UIColor.red
             displayLabel.text = "I18"
         case 19:
-            View_19.backgroundColor = UIColor.yellow
+            View_19.backgroundColor = UIColor.red
             displayLabel.text = "I19"
         case 20:
-            View_20.backgroundColor = UIColor.yellow
+            View_20.backgroundColor = UIColor.red
             displayLabel.text = "I20"
         case 21:
-            View_21.backgroundColor = UIColor.yellow
+            View_21.backgroundColor = UIColor.red
             displayLabel.text = "I21"
         case 22:
-            View_22.backgroundColor = UIColor.yellow
+            View_22.backgroundColor = UIColor.red
             displayLabel.text = "I22"
         case 23:
-            View_23.backgroundColor = UIColor.yellow
+            View_23.backgroundColor = UIColor.red
             displayLabel.text = "I23"
         case 24:
-            View_24.backgroundColor = UIColor.yellow
+            View_24.backgroundColor = UIColor.red
             displayLabel.text = "I24"
         case 25:
-            View_25.backgroundColor = UIColor.yellow
+            View_25.backgroundColor = UIColor.red
             displayLabel.text = "I25"
         case 26:
-            View_26.backgroundColor = UIColor.yellow
+            View_26.backgroundColor = UIColor.red
             displayLabel.text = "I26"
         case 27:
-            View_27.backgroundColor = UIColor.yellow
+            View_27.backgroundColor = UIColor.red
             displayLabel.text = "I27"
         case 28:
-            View_28.backgroundColor = UIColor.yellow
+            View_28.backgroundColor = UIColor.red
             displayLabel.text = "I28"
         case 29:
-            View_29.backgroundColor = UIColor.yellow
+            View_29.backgroundColor = UIColor.red
             displayLabel.text = "I29"
         case 30:
-            View_30.backgroundColor = UIColor.yellow
+            View_30.backgroundColor = UIColor.red
             displayLabel.text = "I30"
         case 31:
-            View_31.backgroundColor = UIColor.yellow
+            View_31.backgroundColor = UIColor.red
             displayLabel.text = "N31"
         case 32:
-            View_32.backgroundColor = UIColor.yellow
+            View_32.backgroundColor = UIColor.red
             displayLabel.text = "N32"
         case 33:
-            View_33.backgroundColor = UIColor.yellow
+            View_33.backgroundColor = UIColor.red
             displayLabel.text = "N33"
         case 34:
-            View_34.backgroundColor = UIColor.yellow
+            View_34.backgroundColor = UIColor.red
             displayLabel.text = "N34"
         case 35:
-            View_35.backgroundColor = UIColor.yellow
+            View_35.backgroundColor = UIColor.red
             displayLabel.text = "N35"
         case 36:
-            View_36.backgroundColor = UIColor.yellow
+            View_36.backgroundColor = UIColor.red
             displayLabel.text = "N36"
         case 37:
-            View_37.backgroundColor = UIColor.yellow
+            View_37.backgroundColor = UIColor.red
             displayLabel.text = "N37"
         case 38:
-            View_38.backgroundColor = UIColor.yellow
+            View_38.backgroundColor = UIColor.red
             displayLabel.text = "N38"
         case 39:
-            View_39.backgroundColor = UIColor.yellow
+            View_39.backgroundColor = UIColor.red
             displayLabel.text = "N39"
         case 40:
-            View_40.backgroundColor = UIColor.yellow
+            View_40.backgroundColor = UIColor.red
             displayLabel.text = "N40"
         case 41:
-            View_41.backgroundColor = UIColor.yellow
+            View_41.backgroundColor = UIColor.red
             displayLabel.text = "N41"
         case 42:
-            View_42.backgroundColor = UIColor.yellow
+            View_42.backgroundColor = UIColor.red
             displayLabel.text = "N42"
         case 43:
-            View_43.backgroundColor = UIColor.yellow
+            View_43.backgroundColor = UIColor.red
             displayLabel.text = "N43"
         case 44:
-            View_44.backgroundColor = UIColor.yellow
+            View_44.backgroundColor = UIColor.red
             displayLabel.text = "N44"
         case 45:
-            View_45.backgroundColor = UIColor.yellow
+            View_45.backgroundColor = UIColor.red
             displayLabel.text = "N45"
         case 46:
-            View_46.backgroundColor = UIColor.yellow
+            View_46.backgroundColor = UIColor.red
             displayLabel.text = "G46"
         case 47:
-            View_47.backgroundColor = UIColor.yellow
+            View_47.backgroundColor = UIColor.red
             displayLabel.text = "G47"
         case 48:
-            View_48.backgroundColor = UIColor.yellow
+            View_48.backgroundColor = UIColor.red
             displayLabel.text = "G48"
         case 49:
-            View_49.backgroundColor = UIColor.yellow
+            View_49.backgroundColor = UIColor.red
             displayLabel.text = "G49"
         case 50:
-            View_50.backgroundColor = UIColor.yellow
+            View_50.backgroundColor = UIColor.red
             displayLabel.text = "G50"
         case 51:
-            View_51.backgroundColor = UIColor.yellow
+            View_51.backgroundColor = UIColor.red
             displayLabel.text = "G51"
         case 52:
-            View_52.backgroundColor = UIColor.yellow
+            View_52.backgroundColor = UIColor.red
             displayLabel.text = "G52"
         case 53:
-            View_53.backgroundColor = UIColor.yellow
+            View_53.backgroundColor = UIColor.red
             displayLabel.text = "G53"
         case 54:
-            View_54.backgroundColor = UIColor.yellow
+            View_54.backgroundColor = UIColor.red
             displayLabel.text = "G54"
         case 55:
-            View_55.backgroundColor = UIColor.yellow
+            View_55.backgroundColor = UIColor.red
             displayLabel.text = "G55"
         case 56:
-            View_56.backgroundColor = UIColor.yellow
+            View_56.backgroundColor = UIColor.red
             displayLabel.text = "G56"
         case 57:
-            View_57.backgroundColor = UIColor.yellow
+            View_57.backgroundColor = UIColor.red
             displayLabel.text = "G57"
         case 58:
-            View_58.backgroundColor = UIColor.yellow
+            View_58.backgroundColor = UIColor.red
             displayLabel.text = "G58"
         case 59:
-            View_59.backgroundColor = UIColor.yellow
+            View_59.backgroundColor = UIColor.red
             displayLabel.text = "G59"
         case 60:
-            View_60.backgroundColor = UIColor.yellow
+            View_60.backgroundColor = UIColor.red
             displayLabel.text = "G60"
         case 61:
-            View_61.backgroundColor = UIColor.yellow
+            View_61.backgroundColor = UIColor.red
             displayLabel.text = "O61"
         case 62:
-            View_62.backgroundColor = UIColor.yellow
+            View_62.backgroundColor = UIColor.red
             displayLabel.text = "O62"
         case 63:
-            View_63.backgroundColor = UIColor.yellow
+            View_63.backgroundColor = UIColor.red
             displayLabel.text = "O63"
         case 64:
-            View_64.backgroundColor = UIColor.yellow
+            View_64.backgroundColor = UIColor.red
             displayLabel.text = "O64"
         case 65:
-            View_65.backgroundColor = UIColor.yellow
+            View_65.backgroundColor = UIColor.red
             displayLabel.text = "O65"
         case 66:
-            View_66.backgroundColor = UIColor.yellow
+            View_66.backgroundColor = UIColor.red
             displayLabel.text = "O66"
         case 67:
-            View_67.backgroundColor = UIColor.yellow
+            View_67.backgroundColor = UIColor.red
             displayLabel.text = "O67"
         case 68:
-            View_68.backgroundColor = UIColor.yellow
+            View_68.backgroundColor = UIColor.red
             displayLabel.text = "O68"
         case 69:
-            View_69.backgroundColor = UIColor.yellow
+            View_69.backgroundColor = UIColor.red
             displayLabel.text = "O69"
         case 70:
-            View_70.backgroundColor = UIColor.yellow
+            View_70.backgroundColor = UIColor.red
             displayLabel.text = "O70"
         case 71:
-            View_71.backgroundColor = UIColor.yellow
+            View_71.backgroundColor = UIColor.red
             displayLabel.text = "O71"
         case 72:
-            View_72.backgroundColor = UIColor.yellow
+            View_72.backgroundColor = UIColor.red
             displayLabel.text = "O72"
         case 73:
-            View_73.backgroundColor = UIColor.yellow
+            View_73.backgroundColor = UIColor.red
             displayLabel.text = "O73"
         case 74:
-            View_74.backgroundColor = UIColor.yellow
+            View_74.backgroundColor = UIColor.red
             displayLabel.text = "O74"
         case 75:
-            View_75.backgroundColor = UIColor.yellow
+            View_75.backgroundColor = UIColor.red
             displayLabel.text = "O75"
             
         default:
